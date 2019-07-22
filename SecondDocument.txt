@@ -1,0 +1,23 @@
+pwd------- it shows current location
+
+cd--------change directory
+
+cd Desktop-------Takes you back to desktop
+ 
+git clone-------clone command downloads an existing Git repository to local computer
+
+ls--------------list
+
+git status-----it checkes the status of file in git
+
+ gitadd -------add message to a particular file
+
+ git commit-----add message to new change
+ 
+-m-------------message 
+
+ git config---------it will ensure that any input or output is valid under the given type constraint.
+
+ git push---it push code from local meachine to repository
+
+ histor-----it shows all the activity that has taken place
